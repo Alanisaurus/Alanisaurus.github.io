@@ -19,7 +19,7 @@ h1 a{
 	float: left;
 }
 h1 a:hover{
-	-webkit-animation: wheelspin 0.5s infinite linear;
+	-webkit-animation: wheelspin 1s infinite linear;
 }
 @-webkit-keyframes wheelspin{
 	from{
